@@ -4,13 +4,15 @@
 }
 .wrapper {
   width: 100%;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  height: 100vh;
 }
 .calculator {
   background-color: #3a4452;
   padding: 10px;
   position: absolute;
-  top: 30%;
-  left: 40%;
 }
 
 .textView {
